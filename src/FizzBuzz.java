@@ -25,6 +25,7 @@ class FizzBuzz {
 
             System.out.println("Fizz");
 
+
         } else if (divisibleBy5) {
 
             System.out.println("Buzz");
